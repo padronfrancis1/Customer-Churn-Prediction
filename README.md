@@ -58,6 +58,10 @@ Data: Telco Customer Churn
 **Correlation table:**
 ![image](https://github.com/user-attachments/assets/6329f8dc-6178-4376-9ea8-8e5d79523ee7)
 
+**Models and their metrics:**
+
+![image](https://github.com/user-attachments/assets/aa35943b-ec71-4b68-805e-cca07dd97922)
+
 **Stacking Model:**
 
 ![image](https://github.com/user-attachments/assets/f560a34b-1cf9-4b1c-bac5-a0a82c83c5ec)
