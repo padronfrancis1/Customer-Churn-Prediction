@@ -1,5 +1,5 @@
 ## Customer Churn Analysis
-### What is Customer Churn?
+### Why Customer Churn?
 Customer churn occurs when customers discontinue their subscription or stop using a service. In the highly competitive telecom industry, churn rates range from 15-25%. Retaining customers is significantly more cost-effective than acquiring new ones, making churn prediction and prevention crucial.
 
 Why It Matters:
