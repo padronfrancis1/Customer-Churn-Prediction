@@ -1,28 +1,33 @@
 ### 📚 Table of Contents:
 
-1. **Import Libraries & Dataset.**
+**Import Libraries & Dataset**
+* Importing Libraries
+* Loading Dataset
+* Defining helper functions dand classes
 
-2. **Data Wrangling.**
-   * Data Cleaning.
-   * Handling Missing Values.
-   * Handling Inconsistencies.
+**Data Cleaning**
+* Handling Missing Values
+* Converting Columns to Numeric
+* Dropping Empty Rows
 
-3. **Exploratory Data Analysis (EDA).**
-   * Visualizing Dependent Variable.
-   * Visualizing Independent Variables.
-   * Generating Insights.
+**Exploratory Data Analysis (EDA)**
+* Visualizing Target Variable (Churn)
+* Analyzing Categorical Features
+* Analyzing Numerical Features
+* Generating Insights
 
-4. **Data Preprocessing.**
-   * Variable Selection and Importance.
-   * Feature Transformation, Scaling, and Encoding.
-   * Splitting Data for Model Training.
-   * Applying SMOTE to reduce class imbalance.
+**Feature Encoding & Scaling**
+* Encoding Categorical Variables
+* Correlation Analysis
+* Scaling Features
+* Splitting Data
 
-5. **Model Creation, Training, and Evaluation**
-   * Selection of Classification Algorithms.
-   * Model Training and Tuning.
-   * Model Evaluation and Performance.
-   * Confusion Matrix Analysis.
-   * Accuracy, Precision, Recall, and F1 Score.
-   * Receiver Operating Characteristic (ROC) Curve and AUC.
-   * Feature Importance and Contribution.
+**Model Creation, Training, and Evaluation**
+* Selection of Classification Algorithms
+* Applying Cross-Validation
+* Model Evaluation (Accuracy, Confusion Matrix)
+
+**Model Stacking**
+* Generating Meta-Features
+* Training Meta-Model
+* Evaluating Stacked Model
