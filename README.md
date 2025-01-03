@@ -1,3 +1,21 @@
+## Customer Churn Analysis
+### What is Customer Churn?
+Customer churn occurs when customers discontinue their subscription or stop using a service. In the highly competitive telecom industry, churn rates range from 15-25%. Retaining customers is significantly more cost-effective than acquiring new ones, making churn prediction and prevention crucial.
+
+Why It Matters:
+Understanding churn patterns enables telecom companies to focus retention efforts on high-risk customers, improving customer loyalty and profitability. Early detection of potential churn requires analyzing customer interactions across channels such as service usage, support calls, and purchase history.
+
+Objectives:
+This project explores telecom customer data to answer key questions, including:
+
+What percentage of customers churn versus remain active?
+Are there patterns in churn based on demographics like gender?
+Which service types are most associated with churn?
+What features or services drive profitability?
+By addressing these questions, the goal is to help businesses reduce churn and implement effective customer retention strategies.
+
+Data: Telco Customer Churn
+
 ### 📚 Table of Contents:
 
 **Import Libraries & Dataset**
