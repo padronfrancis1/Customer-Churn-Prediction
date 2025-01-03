@@ -1,6 +1,6 @@
 ### 📚 Table of Contents:
 
-1. **Impor Libraries & Dataset.**
+1. **Import Libraries & Dataset.**
 
 2. **Data Wrangling.**
    * Data Cleaning.
