@@ -51,11 +51,13 @@ Data: Telco Customer Churn
 * Evaluating Stacked Model
 
 **Data Visualization Examples:**
+
 ![image](https://github.com/user-attachments/assets/bd1be2bd-cfab-4d16-9246-e4e26b9b256b)
 ![image](https://github.com/user-attachments/assets/7e4693f0-491e-4ae1-a88f-1024447f1a35)
 ![image](https://github.com/user-attachments/assets/4ce1d69c-65e8-4873-a3d1-c4d24298c873)
 
 **Correlation table:**
+
 ![image](https://github.com/user-attachments/assets/6329f8dc-6178-4376-9ea8-8e5d79523ee7)
 
 **Models and their metrics:**
